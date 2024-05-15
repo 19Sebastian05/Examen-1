@@ -1,4 +1,4 @@
-// index.js (Servicio de Productos)
+// index.js (Productos de servicios)
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
